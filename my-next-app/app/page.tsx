@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <h1>this is my website</h1>
 
-      <p>hello </p>
+      <p>hello</p>
     </main>
   );
 }
